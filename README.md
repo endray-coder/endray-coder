@@ -12,7 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+# Hi there
+- I am endray from hdu.
+- Used to be an oier.
+- trying to do something fun.
+- learning ai art.
 
 <!-- Snake -->
 <div align="center">
