@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there
-- I am endray from hdu.
+- I am endray.
 - Used to be an oier.
 - trying to do something fun.
 - learning ai art.
