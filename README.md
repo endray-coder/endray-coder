@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there
-- I am endray.
+- I'm endray.
 - Used to be an oier.
-- trying to do something fun.
+- developing a mod of slay the spire
 - learning ai art.
 
 <!-- Snake -->
