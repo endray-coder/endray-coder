@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - Used to be an oier.
 - developing a mod of slay the spire
 - learning ai art.
+- learning blender.
 
 <!-- Snake -->
 <div align="center">
