@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 </div>
 
 <!-- Tech Stack -->
-<!-- <div align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=github,linux,vscode,py,cpp,matlab,r,julia,latex,html,javascript,lua,raspberrypi"/> </br>
-</div> -->
+</div>
 
 <!-- This is purely for my Github Streak, I want to paint on it!  -->
